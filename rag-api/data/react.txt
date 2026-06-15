@@ -1,0 +1,28 @@
+Skill: react
+
+Roadmap:
+https://roadmap.sh/sql
+YouTube:
+https://www.youtube.com/watch?v=7S_tz1z_5bA
+
+Documentation:
+https://sqlbolt.com/
+
+Projects:
+
+Project 1:
+Dockerize a React Application
+Difficulty: Beginner
+
+Project 2:
+Dockerize Node.js + MongoDB Application
+Difficulty: Intermediate
+
+Project 3:
+Multi-Container App using Docker Compose
+Difficulty: Intermediate
+
+Project 4:
+Deploy Full Stack App with Docker
+Difficulty: Advanced
+

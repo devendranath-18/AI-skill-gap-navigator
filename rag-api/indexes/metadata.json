@@ -1,0 +1,18 @@
+[
+  {
+    "file": "docker.txt",
+    "text": "Skill: Docker\n\nRoadmap:\nhttps://roadmap.sh/docker\n\nYouTube:\nhttps://www.youtube.com/watch?v=pTFZFxd4hOI\n\nDocumentation:\nhttps://www.docker.com/\n\nProjects:\n\nProject 1:\nDockerize a React Application\nDifficulty: Beginner\n\nProject 2:\nDockerize Node.js + MongoDB Application\nDifficulty: Intermediate\n\nProject 3:\nMulti-Container App using Docker Compose\nDifficulty: Intermediate\n\nProject 4:\nDeploy Full Stack App with Docker\nDifficulty: Advanced"
+  },
+  {
+    "file": "nodejs.txt",
+    "text": "Skill: nodejs\n\nRoadmap:\nhttps://roadmap.sh/sql\nYouTube:\nhttps://www.youtube.com/watch?v=7S_tz1z_5bA\n\nDocumentation:\nhttps://sqlbolt.com/\n\nProjects:\n\nProject 1:\nDockerize a React Application\nDifficulty: Beginner\n\nProject 2:\nDockerize Node.js + MongoDB Application\nDifficulty: Intermediate\n\nProject 3:\nMulti-Container App using Docker Compose\nDifficulty: Intermediate\n\nProject 4:\nDeploy Full Stack App with Docker\nDifficulty: Advanced"
+  },
+  {
+    "file": "react.txt",
+    "text": "Skill: react\n\nRoadmap:\nhttps://roadmap.sh/sql\nYouTube:\nhttps://www.youtube.com/watch?v=7S_tz1z_5bA\n\nDocumentation:\nhttps://sqlbolt.com/\n\nProjects:\n\nProject 1:\nDockerize a React Application\nDifficulty: Beginner\n\nProject 2:\nDockerize Node.js + MongoDB Application\nDifficulty: Intermediate\n\nProject 3:\nMulti-Container App using Docker Compose\nDifficulty: Intermediate\n\nProject 4:\nDeploy Full Stack App with Docker\nDifficulty: Advanced"
+  },
+  {
+    "file": "sql.txt",
+    "text": "Skill: SQL\n\nRoadmap:\nhttps://roadmap.sh/sql\nYouTube:\nhttps://www.youtube.com/watch?v=7S_tz1z_5bA\n\nDocumentation:\nhttps://sqlbolt.com/\n\nProjects:\n\nProject 1:\nDockerize a React Application\nDifficulty: Beginner\n\nProject 2:\nDockerize Node.js + MongoDB Application\nDifficulty: Intermediate\n\nProject 3:\nMulti-Container App using Docker Compose\nDifficulty: Intermediate\n\nProject 4:\nDeploy Full Stack App with Docker\nDifficulty: Advanced"
+  }
+]

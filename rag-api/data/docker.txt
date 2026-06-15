@@ -1,0 +1,29 @@
+Skill: Docker
+
+Roadmap:
+https://roadmap.sh/docker
+
+YouTube:
+https://www.youtube.com/watch?v=pTFZFxd4hOI
+
+Documentation:
+https://www.docker.com/
+
+Projects:
+
+Project 1:
+Dockerize a React Application
+Difficulty: Beginner
+
+Project 2:
+Dockerize Node.js + MongoDB Application
+Difficulty: Intermediate
+
+Project 3:
+Multi-Container App using Docker Compose
+Difficulty: Intermediate
+
+Project 4:
+Deploy Full Stack App with Docker
+Difficulty: Advanced
+
