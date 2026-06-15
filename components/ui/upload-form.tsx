@@ -37,7 +37,7 @@ export default function UploadForm({
       );
 
       const response = await fetch(
-        "http://localhost:8000/analyze-pdf",
+        "https://YOUR-HUGGINGFACE-SPACE.hf.space/analyze-pdf",
         {
           method: "POST",
           body: formData,
