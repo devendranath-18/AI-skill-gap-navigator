@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Git
+.git/
+.gitignore
+
+# Environment files
+.env
+
+# VS Code
+.vscode/
+
+# Tests
+test_*.py
+
+# Large files you don't want to upload
+*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
