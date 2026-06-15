@@ -37,7 +37,7 @@ export default function UploadForm({
       );
 
       const response = await fetch(
-        "https://devendranath-18-ai-skill-gap-navigator.hf.space",
+        "https://devendranath-18-ai-skill-gap-navigator.hf.space/analyze-pdf",
         {
           method: "POST",
           body: formData,
