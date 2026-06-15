@@ -24,15 +24,22 @@ const sampleResult = {
 
   resources: {
     AWS: {
-      roadmap: "https://roadmap.sh/aws",
+      resource: {
+        roadmap: "https://roadmap.sh/aws",
+      },
     },
 
     Docker: {
-      roadmap: "https://roadmap.sh/docker",
+      resource: {
+        roadmap: "https://roadmap.sh/docker",
+      },
     },
 
     TypeScript: {
-      roadmap: "https://roadmap.sh/typescript",
+      resource: {
+        roadmap:
+          "https://roadmap.sh/typescript",
+      },
     },
   },
 };
