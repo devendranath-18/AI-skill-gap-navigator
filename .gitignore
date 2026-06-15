@@ -39,3 +39,4 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+NEXT_PUBLIC_API_URL=https://devendranath-18-ai-skill-gap-navigator.hf.space

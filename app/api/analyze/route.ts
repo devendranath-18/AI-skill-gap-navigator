@@ -7,9 +7,8 @@ export async function POST(
     const formData =
       await request.formData();
 
-    const response =
-      await fetch(
-        "http://127.0.0.1:8000/analyze-pdf",
+    const response = await fetch(
+  `${process.env.NEXT_PUBLIC_API_URL}/analyze-pdf`,
         {
           method: "POST",
           body: formData,
